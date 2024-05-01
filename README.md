@@ -1,6 +1,5 @@
 <h1>Buenos días, tardes, noches, o cuando estés leyendo este README. Soy Zaka y Hago Cosas ;]</h1>
 <h3>Hago cosas como estas:</h3>
-<br>
 <h2>COSAS CHULAS</h2>
 <a href="https://github.com/ZakaHaceCosas/personaplus">
   <img src="https://raw.githubusercontent.com/ZakaHaceCosas/ZakaHaceCosas/main/PP_GITHUB.png" alt="PersonaPlus" height='60'>
