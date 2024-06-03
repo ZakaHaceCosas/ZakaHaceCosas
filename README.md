@@ -6,6 +6,9 @@
 <h2>PersonaPlus</h2>
 <p>Un proyecto en React Native y Expo. Es una app para <i>darte un PLUS</i> (no se me ocurrió nada mejor XD). Es una app de salud y bienestar, básicamente. Aún en desarrollo muy muy temprano, yo diría que es mi proyecto piloto.</p>
 <h2>Sobre mi</h2>
+
+![stats](https://github-readme-stats.vercel.app/api?username=ZakaHaceCosas&show_icons=true&theme=dark)
+
 <p>Me llamo Zakaria, soy español & programador & diseñador UI/UX (en eso ya tengo 4 años de experiencia 👀) & estudiante de secundaria & cualquier otra cosa que haga falta ser para hacer algo épico :]<br>Acepto encargos (o "comisiones", o como le llames), gratis si hace falta, con tal de tener algo de "experiencia real" para cuando me pregunten XD.</p>
 <br>
 <br>
