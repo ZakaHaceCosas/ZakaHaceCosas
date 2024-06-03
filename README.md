@@ -1,9 +1,8 @@
 <h1>Buenos días, tardes, noches, o cuando estés leyendo este README. Soy Zaka y Hago Cosas ;]</h1>
 <h3>Hago cosas como estas:</h3>
 <a href="https://github.com/ZakaHaceCosas/personaplus">
-  <img src="https://raw.githubusercontent.com/ZakaHaceCosas/ZakaHaceCosas/main/PP_GITHUB.png" alt="PersonaPlus" height='60'>
-</a>
 <h2>PersonaPlus</h2>
+</a>
 <p>Un proyecto en React Native y Expo. Es una app para <i>darte un PLUS</i> (no se me ocurrió nada mejor XD). Es una app de salud y bienestar, básicamente. Aún en desarrollo muy muy temprano, yo diría que es mi proyecto piloto.</p>
 <h2>Sobre mi</h2>
 
