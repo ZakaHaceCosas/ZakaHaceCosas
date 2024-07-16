@@ -9,7 +9,9 @@ Un proyecto en React Native y Expo. Es una app para <i>darte un PLUS</i>, como m
 
 ## Sobre mí
 
-Soy Zakaria, programador y diseñador UI/UX con 4 años de experiencia. Tengo habilidades en HTML, CSS, Lua, y actualmente estoy aprendiendo React JS y React Native. Estoy en secundaria y siempre busco nuevas oportunidades para hacer cosas épicas. **Sí** acepto encargos y comisiones (incluso gratuitas) para ganar experiencia y mejorar mis habilidades.
+Soy Zakaria, programador y diseñador UI/UX con 4 años de experiencia, además de bastante práctica con web Vanilla (HTML y CSS) y también con Lua, ahora aprendiendo React JS, TypeScript, y React Native. Siempre busco nuevas oportunidades para hacer cosas épicas.
+
+Por si acaso te parezco buen programador / diseñador (gracias :smile:), que sepas que **sí** acepto encargos y comisiones, incluso de manera gratuita si quieres (ya que es para ganar experiencia real y seguir mejorando mis habilidades).
 
 ```lua
 # BEGIN ESTADÍSTICAS QUE NADIE LEE
