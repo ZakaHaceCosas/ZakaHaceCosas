@@ -25,10 +25,6 @@ Por si acaso te parezco buen programador / diseñador (gracias :smile:), que sep
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaHaceCosas&hide_progress=false&theme=dark&layout=donut&langs_count=10)](https://github.com/ZakaHaceCosas)
 
-`Habilidades (ordenadas de lo que mejor a lo que peor se me da 👍):`
-
-![Habilidades](https://skillicons.dev/icons?i=figma,css,lua,robloxstudio,html,ts,react,git&perline=4)
-
 `Cuanto tiempo paso sentado en vez de tocando hierba`
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZakaHaceCosas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
