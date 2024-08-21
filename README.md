@@ -2,8 +2,7 @@
 
 ## Proyectos destacados
 
-### [PersonaPlus](https://github.com/ZakaHaceCosas/personaplus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakaHaceCosas&repo=personaplus&theme=dark)](https://github.com/ZakaHaceCosas/personaplus)
+[![PersonaPlus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakaHaceCosas&repo=personaplus&theme=gotham)](https://github.com/ZakaHaceCosas/personaplus)
 
 Un proyecto en React Native y Expo. Es una app para <i>darte un PLUS</i>, como me gusta decir. Básicamente, es una app de salud y bienestar, que te da consejos, crea rutinas, actúa como "asistente", etc..., aunque aún está en una fase muy temprana de desarrollo y la mayoría de cosas aún no están implementadas. Diría que es mi proyecto piloto.
 
@@ -19,15 +18,15 @@ Por si acaso te parezco buen programador / diseñador (gracias :smile:), que sep
 
 `Estadísticas o algo`
 
-![stats](https://github-readme-stats.vercel.app/api?username=ZakaHaceCosas&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![stats](https://github-readme-stats.vercel.app/api?username=ZakaHaceCosas&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
 `Lenguages` _`top`_
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaHaceCosas&hide_progress=false&theme=dark&layout=donut&langs_count=10)](https://github.com/ZakaHaceCosas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaHaceCosas&hide_progress=false&theme=gotham&layout=donut&langs_count=10)](https://github.com/ZakaHaceCosas)
 
 `Cuanto tiempo paso sentado en vez de tocando hierba`
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZakaHaceCosas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Zaka's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZakaHaceCosas&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ```lua
 # END ESTADÍSTICAS QUE NADIE LEE
