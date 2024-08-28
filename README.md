@@ -1,37 +1,39 @@
-# Buenos días, tardes, noches, o cuando estés leyendo este README. Soy [Zaka](https://zakahacecosas.github.io) y Hago Cosas ;]
+# Good morning, afternoon, or night, or whenever you're here. I'm [Zaka](https://zakahacecosas.github.io) and I Make Stuff ;]
 
-## Proyectos destacados
+## Featured projects
 
 [![PersonaPlus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakaHaceCosas&repo=personaplus&theme=gotham)](https://github.com/ZakaHaceCosas/personaplus)
 
-Un proyecto en React Native y Expo. Es una app para <i>darte un PLUS</i>, como me gusta decir. Básicamente, es una app de salud y bienestar, que te da consejos, crea rutinas, actúa como "asistente", etc..., aunque aún está en una fase muy temprana de desarrollo y la mayoría de cosas aún no están implementadas. Diría que es mi proyecto piloto.
+PersonaPlus, an app (written in React Native / Expo), designed to <i>give yourself a plus</i> as I like to say. Basically it's a selfcare app, it's meant to give you tips, create routines, etc...
 
-## Sobre mí
+It's still very VERY early and most stuff isn't even made 😅. I'd say it's my "piloto" project.
 
-Soy Zakaria, programador y diseñador UI/UX con 4 años de experiencia, además de bastante práctica con web Vanilla (HTML y CSS) y también con Lua, ahora aprendiendo React JS, TypeScript, y React Native. Siempre busco nuevas oportunidades para hacer cosas épicas.
+## About me
 
-Por si acaso te parezco buen programador / diseñador (gracias :smile:), que sepas que **sí** acepto encargos y comisiones, incluso de manera gratuita si quieres (ya que es para ganar experiencia real y seguir mejorando mis habilidades).
+I'm Zakaria, UI/UX designer with over 4 years of experience, a lot of practive with HTML & CSS, now learning Lua, TypeScript, and React / React Native. Always looking for the change to make something epic!
+
+In case you're interested (thank you btw :smile:), **yeah**, I am available for hire / commissions / whatsoever. Sometimes I don't even ask to be paid, as I'm seeking some working experience and practice.
 
 ```lua
-# BEGIN ESTADÍSTICAS QUE NADIE LEE
+-- BEGIN STATS NO ONE READS
 ```
 
-`Estadísticas o algo`
+### My stats or something
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ZakaHaceCosas&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
-`Lenguages` _`top`_
+### My _top_ languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaHaceCosas&hide_progress=false&theme=gotham&layout=donut&langs_count=10)](https://github.com/ZakaHaceCosas)
 
-`Cuanto tiempo paso sentado en vez de tocando hierba`
+### Amount of time spent VSCoding instead of grass touching
 
 [![Zaka's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZakaHaceCosas&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ```lua
-# END ESTADÍSTICAS QUE NADIE LEE
+-- END STATS NO ONE READS
 ```
 
-## ¡Saludos!
+## Cya!
 
-Cuídate y que Dios te bendiga :]
+Take care and God bless ya :]
