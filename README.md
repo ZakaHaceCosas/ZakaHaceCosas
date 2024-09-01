@@ -30,6 +30,10 @@ In case you're interested (thank you btw :smile:), **yeah**, I am available for 
 
 [![Zaka's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZakaHaceCosas&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Streaks, as if this was Duolingo
+
+![this is not duolingo](https://github-readme-streak-stats.herokuapp.com?user=ZakaHaceCosas&theme=gotham)
+
 ```lua
 -- END STATS NO ONE READS
 ```
