@@ -10,7 +10,7 @@ It's still very VERY early and most stuff isn't even made 😅. I'd say it's my 
 
 ## About me
 
-I'm Zakaria, UI/UX designer with over 4 years of experience, a lot of practive with HTML & CSS, now learning Lua, TypeScript, and React / React Native. Always looking for the change to make something epic!
+I'm Zakaria, a  :es:Spanish UI/UX designer with over 4 years of experience, a lot of practive with HTML & CSS, now learning Lua, TypeScript, and React / React Native. Always looking for the change to make something epic!
 
 In case you're interested (thank you btw :smile:), **yeah**, I am available for hire / commissions / whatsoever. Sometimes I don't even ask to be paid, as I'm seeking some working experience and practice.
 
@@ -20,7 +20,7 @@ In case you're interested (thank you btw :smile:), **yeah**, I am available for 
 
 ### My stats or something
 
-![stats](https://github-readme-stats.vercel.app/api?username=ZakaHaceCosas&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
+[![stats](https://github-readme-stats.vercel.app/api?username=ZakaHaceCosas&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My _top_ languages
 
@@ -32,7 +32,7 @@ In case you're interested (thank you btw :smile:), **yeah**, I am available for 
 
 ### Streaks, as if this was Duolingo
 
-![this is not duolingo](https://github-readme-streak-stats.herokuapp.com?user=ZakaHaceCosas&theme=gotham)
+[![this is not duolingo](https://github-readme-streak-stats.herokuapp.com?user=ZakaHaceCosas&theme=gotham)](https://github-readme-streak-stats.herokuapp.com/demo/)
 
 ```lua
 -- END STATS NO ONE READS
