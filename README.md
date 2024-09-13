@@ -10,7 +10,7 @@ It's still very VERY early and most stuff isn't even made 😅. I'd say it's my 
 
 ## About me
 
-I'm Zakaria, a  :es:Spanish UI/UX designer with over 4 years of experience, a lot of practive with HTML & CSS, now learning Lua, TypeScript, and React / React Native. Always looking for the change to make something epic!
+I'm Zakaria, a  :es:Spanish UI/UX designer with over 4 years of experience, a lot of practive with HTML & CSS, now learning Lua, TypeScript, and React / React Native. Always looking for the chance to make something epic!
 
 In case you're interested (thank you btw :smile:), **yeah**, I am available for hire / commissions / whatsoever. Sometimes I don't even ask to be paid, as I'm seeking some working experience and practice.
 
