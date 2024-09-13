@@ -4,15 +4,15 @@
 
 [![PersonaPlus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZakaHaceCosas&repo=personaplus&theme=gotham)](https://github.com/ZakaHaceCosas/personaplus)
 
-PersonaPlus, an app (written in React Native / Expo), designed to <i>give yourself a plus</i> as I like to say. Basically it's a selfcare app, it's meant to give you tips, create routines, etc...
+**PersonaPlus**, an app (written in React Native / Expo), designed to <i>give yourself a plus</i> as I like to say. It's essentially a self-care app meant to provide tips, help you create routines, and more.
 
-It's still very VERY early and most stuff isn't even made 😅. I'd say it's my "piloto" project.
+It's still in a very, VERY early stage, and most stuff isn't even built yet 😅. I'd call it my pilot project.
 
 ## About me
 
-I'm Zakaria, a  :es:Spanish UI/UX designer with over 4 years of experience, a lot of practive with HTML & CSS, now learning Lua, TypeScript, and React / React Native. Always looking for the chance to make something epic!
+I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience, and lots of practice with HTML & CSS. I'm now learning Lua, TypeScript, and React / React Native. Always looking for the chance to make something epic!
 
-In case you're interested (thank you btw :smile:), **yeah**, I am available for hire / commissions / whatsoever. Sometimes I don't even ask to be paid, as I'm seeking some working experience and practice.
+In case you're interested (thank you, btw :smile:), **yeah**, I am available for hire, commissions, or any other work. Sometimes, I don't even ask to be paid, as I'm seeking for working experience and practice.
 
 ```lua
 -- BEGIN STATS NO ONE READS
