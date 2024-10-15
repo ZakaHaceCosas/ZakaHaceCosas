@@ -9,15 +9,15 @@
 
 </div>
 
-**PersonaPlus**, an app (written in React Native / Expo), designed to <i>give yourself a plus</i> as I like to say. It's essentially a self-care app meant to provide tips, help you create routines, and more. It's still in a very, VERY early stage, and most stuff isn't even built yet 😅. I'd call it my pilot project.
+**PersonaPlus**, an app (written in React Native / Expo), designed to <i>give yourself a plus</i> as I like to say. It's essentially a self-care app meant to provide tips, help you create routines, and more. It's still in a very, VERY early stage, and most stuff isn't even built yet. I'd call it a pilot project.
 
 **F*ckingNode** is uh, a more peculiar thing 😅. It's a very very simple CLI utility to automate cleaning of `node_modules`, a thing that can grow HUGE over time. I made it for myself as a simple `.ps1` script, and it has helped me a lot, so I rewrote it in TS and made it open source for everyone :].
 
 ## About me
 
-I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience, and lots of practice with HTML & CSS. I'm now learning Lua, TypeScript, and React / React Native. Always looking for the chance to make something epic!
+I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience, and lots of practice with HTML & CSS. I'm now learning Lua, TypeScript, and React (Native).
 
-In case you're interested (thank you, btw :smile:), **yeah**, I am available for hire, commissions, or any other work. Sometimes, I don't even ask to be paid, as I'm seeking for working experience and practice.
+I'm not available for hire, commissions, or any other work as of now.
 
 ```lua
 -- BEGIN STATS NO ONE READS
