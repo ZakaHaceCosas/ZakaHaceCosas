@@ -36,6 +36,10 @@ I'm not available for hire, commissions, or any other work as of now.
 
 [![this is not duolingo](https://github-readme-streak-stats.herokuapp.com?user=ZakaHaceCosas&theme=gotham)](https://github-readme-streak-stats.herokuapp.com/demo/)
 
+----
+
+<img src="https://komarev.com/ghpvc/?username=ZakaHaceCosas&style=for-the-badge" alt="profile views" />
+
 ```lua
 -- END STATS NO ONE READS
 ```
