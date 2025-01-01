@@ -2,19 +2,22 @@
 
 ## Featured projects
 
+<div align="center">
+
 [![PersonaPlus][card-personaplus]][repo-personaplus]
-
-**PersonaPlus**, an app (written in React Native / Expo), designed to <i>give yourself a plus</i> as I like to say. It's essentially a self-care app meant to provide tips, help you create routines, and more. It's still in a very, VERY early stage, and most stuff isn't even built yet. I'd call it a pilot project.
-
 [![FuckingNode][card-fuckingnode]][repo-fuckingnode]
+
+</div>
+
+**PersonaPlus** is a mobile app written in React Native & Expo, designed to help you <i>give yourself a plus</i>. It's essentially a self-care app meant to provide tips, help you create routines, and more. It's still in a VERY early stage, and most stuff isn't even built yet. I'd call it a pilot project.
 
 **F*ckingNode** is uh, a more peculiar thing 😅. It's a very very simple CLI utility to automate cleaning of `node_modules`, a thing that can grow HUGE over time. I made it for myself as a simple `.ps1` script, and it has helped me a lot, so I rewrote it in TS and made it open source for everyone :].
 
 ## About me
 
-I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience, and lots of practice with HTML & CSS. I'm now learning Lua, TypeScript, and React (Native).
+I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience in design, great practice with HTML & CSS, and now learning TypeScript, React Native, and ocasionally Lua.
 
-I'm not available for hire, commissions, or any other work as of now.
+---
 
 ```lua
 -- BEGIN STATS NO ONE READS
@@ -36,13 +39,15 @@ I'm not available for hire, commissions, or any other work as of now.
 
 [![this is not duolingo](https://github-readme-streak-stats.herokuapp.com?user=ZakaHaceCosas&theme=gotham)](https://github-readme-streak-stats.herokuapp.com/demo/)
 
-----
+### Profile views here
 
 <img src="https://komarev.com/ghpvc/?username=ZakaHaceCosas&style=for-the-badge" alt="profile views" />
 
 ```lua
 -- END STATS NO ONE READS
 ```
+
+----
 
 ## Cya!
 
