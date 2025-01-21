@@ -25,7 +25,9 @@ I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience in de
 
 ### My stats or something
 
-[![stats](https://github-readme-stats.vercel.app/api?username=ZakaHaceCosas&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats][card-stats]][profile]
+
+<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ### My _top_ languages
 
@@ -41,7 +43,7 @@ I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience in de
 
 ### Profile views here
 
-<img src="https://komarev.com/ghpvc/?username=ZakaHaceCosas&style=for-the-badge" alt="profile views" />
+[![Profile views][badge-profile]][profile]
 
 ```lua
 -- END STATS NO ONE READS
@@ -55,6 +57,11 @@ Take care and God bless ya :]
 
 [card-personaplus]: https://github-readme-stats.vercel.app/api/pin/?username=ZakaHaceCosas&repo=personaplus&theme=gotham
 [card-fuckingnode]: https://github-readme-stats.vercel.app/api/pin/?username=ZakaHaceCosas&repo=fuckingnode&theme=gotham
+[card-stats]: https://github-readme-stats.vercel.app/api?username=ZakaHaceCosas&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true
 
 [repo-fuckingnode]: https://github.com/ZakaHaceCosas/FuckingNode
 [repo-personaplus]: https://github.com/ZakaHaceCosas/personaplus
+
+[profile]: https://github.com/ZakaHaceCosas
+
+[badge-profile]: https://komarev.com/ghpvc/?username=ZakaHaceCosas&style=for-the-badge&color=0080FF&labelColor=FFF
