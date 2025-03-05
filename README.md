@@ -1,3 +1,7 @@
+I've temporarily made this profile private for personal reasons, it will be reverted soon.
+
+My portfolio website was also hidden and replaced with a redirect to this page.
+
 <!--
 # Good morning, afternoon, or night, or whenever you're here.<br />I'm [Zaka](https://zakahacecosas.github.io) and I Make Stuff ;]
 
