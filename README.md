@@ -1,6 +1,8 @@
-I've temporarily made this profile private for personal reasons, it will be reverted soon.
+I've temporarily made this profile private for personal reasons, it will be reverted once possible. Note I will continue to contribute code, just more discretely. Also, my biggest projects were moved to dedicate GitHub organizations instead of living under my personal user.
 
 My portfolio website was also hidden and replaced with a redirect to this page.
+
+Thanks for understanding.
 
 <!--
 # Good morning, afternoon, or night, or whenever you're here.<br />I'm [Zaka](https://zakahacecosas.github.io) and I Make Stuff ;]
