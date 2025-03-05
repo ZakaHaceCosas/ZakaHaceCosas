@@ -1,3 +1,4 @@
+<!--
 # Good morning, afternoon, or night, or whenever you're here.<br />I'm [Zaka](https://zakahacecosas.github.io) and I Make Stuff ;]
 
 ## Featured projects
@@ -27,7 +28,7 @@ I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience in de
 
 [![Stats][card-stats]][profile]
 
-<!--(https://github.com/anuraghazra/github-readme-stats)-->
+<!--(https://github.com/anuraghazra/github-readme-stats)-- >
 
 ### My _top_ languages
 
@@ -65,3 +66,4 @@ Take care and God bless ya :]
 [profile]: https://github.com/ZakaHaceCosas
 
 [badge-profile]: https://komarev.com/ghpvc/?username=ZakaHaceCosas&style=for-the-badge&color=0080FF&labelColor=FFF
+-->
