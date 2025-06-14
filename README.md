@@ -1,10 +1,3 @@
-I've temporarily made this profile private for personal reasons, it will be reverted once possible. Note I will continue to contribute code, just more discretely. Also, my biggest projects were moved to dedicate GitHub organizations instead of living under my personal user.
-
-My portfolio website was also hidden and replaced with a redirect to this page.
-
-Thanks for understanding.
-
-<!--
 # Good morning, afternoon, or night, or whenever you're here.<br />I'm [Zaka](https://zakahacecosas.github.io) and I Make Stuff ;]
 
 ## Featured projects
@@ -16,9 +9,9 @@ Thanks for understanding.
 
 </div>
 
-**PersonaPlus** is a mobile app written in React Native & Expo, designed to help you <i>give yourself a plus</i>. It's essentially a self-care app meant to provide tips, help you create routines, and more. It's still in a VERY early stage, and most stuff isn't even built yet. I'd call it a pilot project.
+**PersonaPlus** is essentially a self-care app meant to provide tips, help you create routines, and more. It's still in a very early stage, and most stuff isn't even built yet.
 
-**F*ckingNode** is uh, a more peculiar thing 😅. It's a very very simple CLI utility to automate cleaning of `node_modules`, a thing that can grow HUGE over time. I made it for myself as a simple `.ps1` script, and it has helped me a lot, so I rewrote it in TS and made it open source for everyone :].
+**FuckingNode** is a CLI utility to automate a ton of annoying, repetitive tasks someone has to take care of when working with NodeJS/DenoJS/BunJS projects (dependencies, cleanup, linting, prettifying, etc...).
 
 ## About me
 
@@ -34,7 +27,7 @@ I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience in de
 
 [![Stats][card-stats]][profile]
 
-<!--(https://github.com/anuraghazra/github-readme-stats)-- >
+<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ### My _top_ languages
 
@@ -62,12 +55,12 @@ I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience in de
 
 Take care and God bless ya :]
 
-[card-personaplus]: https://github-readme-stats.vercel.app/api/pin/?username=ZakaHaceCosas&repo=personaplus&theme=gotham
-[card-fuckingnode]: https://github-readme-stats.vercel.app/api/pin/?username=ZakaHaceCosas&repo=fuckingnode&theme=gotham
+[card-personaplus]: https://github-readme-stats.vercel.app/api/pin/?username=GiveItAPlus&repo=personaplus&theme=gotham
+[card-fuckingnode]: https://github-readme-stats.vercel.app/api/pin/?username=FuckingNode&repo=fuckingnode&theme=gotham
 [card-stats]: https://github-readme-stats.vercel.app/api?username=ZakaHaceCosas&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true
 
-[repo-fuckingnode]: https://github.com/ZakaHaceCosas/FuckingNode
-[repo-personaplus]: https://github.com/ZakaHaceCosas/personaplus
+[repo-fuckingnode]: https://github.com/FuckingNode/FuckingNode
+[repo-personaplus]: https://github.com/GiveItAPlus/personaplus
 
 [profile]: https://github.com/ZakaHaceCosas
 
