@@ -1,21 +1,20 @@
 # Good morning, afternoon, night, or whenever you're here.<br />I'm [Zaka](https://zakahacecosas.github.io) and I Make Stuff ;]
 
-## Featured projects
+## My best projects
 
 <div align="center">
 
 [![FuckingNode][card-fuckingnode]][repo-fuckingnode]
-[![PersonaPlus][card-personaplus]][repo-personaplus]
 
 </div>
 
 **FuckingNode** is a CLI utility to automate a ton of annoying, repetitive tasks someone has to take care of when working with NodeJS/DenoJS/BunJS projects (dependencies, cleanup, linting, prettifying, etc...).
 
-**PersonaPlus** is essentially a self-care app meant to provide tips, help you create routines, and more. It's still in a very early stage and most stuff isn't even built yet, but give it some time.
+*More to be placed here, soon...*
 
 ## About me
 
-I'm Zakaria, a :es: Spanish UI/UX designer with over 4 years of experience with Figma, now learning TypeScript, React Native, and ocasionally Lua.
+I'm Zakaria, a :es: Spanish UI/UX designer with over 5 years of experience using Figma. Currently, I'm learning TypeScript, React (including React Native), and occasionally Lua.
 
 ---
 
