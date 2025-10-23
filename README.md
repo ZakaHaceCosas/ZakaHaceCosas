@@ -1,6 +1,6 @@
 # Good morning, afternoon, night, or whenever you're here.<br />I'm [Zaka](https://zakahacecosas.github.io) and I Make Stuff ;]
 
-## My best projects
+<!-- ## My best projects
 
 Currently just one; more is to be placed here soon.
 
@@ -8,9 +8,9 @@ Currently just one; more is to be placed here soon.
 
 **FuckingNode** (what a name) is a CLI utility to automate a ton of annoying, repetitive tasks someone has to take care of when working with NodeJS/DenoJS/BunJS projects (dependencies, cleanup, linting, prettifying, etc...).
 
-## About me
+## About me -->
 
-I'm Zakaria, a :es: Spanish UI/UX designer with over 5 years of experience using Figma. Currently, I'm learning TypeScript, React (including React Native), and very occasionally Lua and LuaRT.
+I'm Zakaria, a :es: Spanish UI/UX designer with over 5 years of experience using Figma. I also know TypeScript, and the basics of React and React Native. I'm trying to further learn those, as well as Svelte and very occasionally Lua and LuaRT.
 
 ---
 
